@@ -1,3 +1,3 @@
 <h4>Mock Elections Map</h4>
 
-Made by Eva Nagao on September 19, 2019
+Created by Eva Nagao on September 19, 2019
